@@ -24,13 +24,11 @@ repository               : "terrence-chen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Terrence Chen"
+  pronouns         : "he/him"  
+  bio              : "PhD Candidate in Sociology"
+  employer         : "New York University"
+  email            : "tychen@nyu.edu" 
 
   # Academic websites
   academia         : # URL
